@@ -1,2 +1,2 @@
 #!/bin/bash
-mldir -m 777 /tmp/my_first_directory/
+mldir /tmp/my_first_directory/
